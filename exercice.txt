@@ -1,0 +1,22 @@
+1) expliquer la ligne 2 du script PHP
+
+2) A quoi sert la fontion mysqli_connect() ?
+
+3) sur la ligne 7 de ce script PHP, expliquer brievement les 04 parametres de la fonction mysqli_connect()
+
+4) A quoi sert le symbole @ sur la ligne 7 du script ?
+
+5) Expliquer la ligne 9 et la ligne 10 du script
+
+6) A quoi sert la fonction mysqli_query() et expliquer ses 02 paramatres ?
+
+7) Donner le role de la fonction mysqli_fecth_row() et donner 02 autres fonctions similaires
+
+8) Expliquer les lignes 20, 21, 22 et 23 du script et donner 02 autres facons d'ecrire la ligne 23 du script
+
+9) Dessiner le resultat de la ligne 14 a 18 du script sachant que la table eleve contient les enregistrements suivant:
+	{A001, beidi, emmanuel, 2000-12-23}
+	{A002, issa, luc, 2002-02-03} 
+	{A0023, Jean, sans prenom, 1990-02-12}
+
+10) Traduire ce script PHP en utilisant le style oriente objet
