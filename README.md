@@ -1,3 +1,2 @@
-# Tle-TI2024-2025-
-JS
-Test d'envoi d'un code sur github.com avec les élèves de Tle TI lycée bilingue de Kaele 
+# Tle-TI2024-2025
+Quelques codes en programmation PHP: Cours de programmation en Tle TI, lycée bilingue de Kaele
